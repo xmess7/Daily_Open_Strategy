@@ -18,8 +18,10 @@ So BE CAREFUL select your DD accordingng per chart.  I KNOW I KNOW, you will see
 Here are the details you have been waiting for.
 
 PAIRS and TIME FRAMES:
+
 EURUSD - H4 TP: 14
 GBPUSD - H4 TP:  14
+
 GBPJPY - H1 TP: 30
 
 LOTS/BALANCE
