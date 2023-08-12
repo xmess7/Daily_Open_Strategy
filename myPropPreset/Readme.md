@@ -3,7 +3,7 @@
 
 Hi folks. The preset I am providing was developed during my testing of the DOS EA.  MY only interest was to have a ready made preset that would allow me to see more trade operations so I could see if the EA was working properly.   I started to see that the preset was yielding small steady consistent results.  At first I didn't think that it could be used in a prop challenge.  Anyhow I ended up with 3 pairs that would help to provide the same steady small consistent gains but to the point that yea we might be able to use this in a prop challenge.
 
-# TESTING THE PRESET in FTMO, MFF, AND FIDEL CREST TRAIL CHALLANGES
+# TESTING THE PRESET in FTMO, MFF, AND FIDEL CREST TRAIL CHALLENGES
 
 After I saw that the DOS EA was working nicely on OANDA/HANKOTRADE I decided to test it on a couple of PROP challenges and the results were consistent.  So I am now running this on a real challange.  I also added the EA to another challenge that I was down on.  The account was down -2.96% and in one week it is now only down -1.2%.   I have till the end of next week and based on its performance I can see this challenge getting back to BE, of course I will let it go into profit cause then I get a free retry.  That challenge was bought before the rules were change by the prop firm.
 
