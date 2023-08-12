@@ -1,0 +1,17 @@
+magicNumber=20230423
+TradeHours=09:00-19:00
+TP=30
+disableEAAfterPcntStop=false
+percentStop=0.0
+maxAllowedSpread=10.0
+candleSize=1
+FixedCandleSize=100.0
+ATRPeriod=21
+dailyTargetPercent=0.0
+weekTargetPercent=0.0
+showPanel=true
+reverseTrade=false
+label1===== Money Management Settings ====
+LotSize=1
+FixedLotSize=0.01
+Lots_Per_Balance=0.01/700
