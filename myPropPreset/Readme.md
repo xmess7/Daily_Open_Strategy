@@ -20,15 +20,18 @@ Here are the details you have been waiting for.
 PAIRS and TIME FRAMES:
 
 EURUSD - H4 TP: 14
+
 GBPUSD - H4 TP:  14
 
 GBPJPY - H1 TP: 30
 
 LOTS/BALANCE
+
 The PRESET has this set to 0.01/500
+
 I recommend that for the days that news happens to use 0.01/1000 or turn off EA.
 
-#FINAL THOUGHTS
+# FINAL THOUGHTS
 The DOS EA should work on the prop firms I mentioned.  However we have seen rare cases where the DOS EA simple does not work.  In that case the user was working with a different brokers on which the EA was not tested.
 
 
