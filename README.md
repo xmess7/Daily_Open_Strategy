@@ -10,7 +10,7 @@ Hi, this is my attempt at creating the authors simple and effective approach.  H
 
 # Version 5
 
-2023.08.16
+2023.08.16   
 -Adjusted OrderCloseShort() and OrderCloseLong() error functions. Got rid of annoying error.  
 -Changed TP from type int to double  
 -added code to allow for proper calculation of point/pip size.  User just enteres pips/points      
