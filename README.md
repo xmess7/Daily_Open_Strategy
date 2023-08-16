@@ -17,7 +17,6 @@ Hi, this is my attempt at creating the authors simple and effective approach.  H
 -Changed TP from type int to double 
 
 -added code to allow for proper calculation of point/pip size.  User just enteres pips/points 
-
-       -Added coded to allow for users to enter greater startTime than endTime       
+-Added coded to allow for users to enter greater startTime than endTime       
 
 Jess (xmess7)
