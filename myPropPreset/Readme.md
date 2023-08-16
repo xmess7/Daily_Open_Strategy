@@ -28,7 +28,8 @@ LOTS/BALANCE
 The PRESET has this default: 0.01/700    
 I typically use 0.01/500 for regular accounts.    
 I recommend that for the RED news days to use 0.01/1000 or turn off EA.    
-If you use anything higher then the DD will increase.  So far using thise lotsize settings ahve proven to be the most robust for when considering DD.    
+If you use anything higher then the DD will increase.  So far using thise lotsize settings have proven to be the   
+most robust for when considering DD.    
 
 # FINAL THOUGHTS
 The DOS EA should work on the prop firms I mentioned.  However we have seen rare cases where the DOS EA simple does not work.    
