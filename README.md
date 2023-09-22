@@ -13,10 +13,10 @@ Hope it benefits anyone now and in the future :).
 # Versions v5.5-7.1
 
 2023.09.15   
-- v7.1 Updated fifoCloseChart() (line 919).  Created diff algo to FIFO close trades on same chart.  
-- v7.0 Added function fifoCloseChart() (line 919).  Removed removeGlobal(), don't need it.  
-- v6.0 This version is for Dustin, created time and hour separations so he can use in strat tester  
-- v5.5 Added on 343 and 365  marginRequired() test and fixed the lotzPerBalance error  
+- v7.1 Created diff algo so FIFO close trades on same chart.  
+- v7.0 Added function FIFO feature for US Broker(only leverage <= 1:50)..  
+- v6.0 Special update, only for this version, created time and hour separations so he can use in strat tester  
+- v5.5 Added marginRequired test and fixed the lotzPerBalance error  
 
 # Version 5
 
