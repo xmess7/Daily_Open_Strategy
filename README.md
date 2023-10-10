@@ -9,6 +9,15 @@ https://www.forexfactory.com/thread/1032108-dos-daily-open-strategy-easy-to-trad
 Hi, this is my attempt at creating the authors simple and effective approach.   
 Hope it benefits anyone now and in the future :).
 
+# Versions v8-10.1  
+
+2023.10.09  
+- v10.1 Rearranged fifo functions fifoCloseAll() and fifoCloseChart() with limit counts and error printing, only for fifo brokers.
+- v10.0 Add gridTP to inputs
+- v9.0 added Global DosOff, to stop autoTrade and allow profit monitoring
+    - added stop trading after TP win
+    - added overall no more thatn 4 trades
+- v8.0 added lastMinProf(), line 499 - Close trade if we get with >=0.09% in last 5 minutes of TF  
 
 # Versions v5.5-7.1
 
