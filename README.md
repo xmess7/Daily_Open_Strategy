@@ -9,6 +9,12 @@ https://www.forexfactory.com/thread/1032108-dos-daily-open-strategy-easy-to-trad
 Hi, this is my attempt at creating the authors simple and effective approach.   
 Hope it benefits anyone now and in the future :).
 
+
+# Versions v11.0
+
+2023.10.20  
+- v10.1  Added Alert Message for when EA is placed on a symbol that is not part of the regular 28
+
 # Versions v8-10.1  
 
 2023.10.09  
