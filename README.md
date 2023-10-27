@@ -13,8 +13,7 @@ Hope it benefits anyone now and in the future :).
 
 2023.10.27 
 
- -  added news functions (getNews()  news_filter()) and broker getBrokerGMTOffset() (line 271) 
- -  change big candle filter: use only on initial trade not grid  (line 721) 
+ -  Update big candle filter: only use this filter when first trade is attempted not during a grid basket 
  -  added maxTrades to input 
  -  updated gridTP code so that EA only used gridTP for closing trades during Grid trading
 
