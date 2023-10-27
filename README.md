@@ -9,6 +9,13 @@ https://www.forexfactory.com/thread/1032108-dos-daily-open-strategy-easy-to-trad
 Hi, this is my attempt at creating the authors simple and effective approach.   
 Hope it benefits anyone now and in the future :).
 
+# Versions v12.0
+
+ -  added news functions (getNews()  news_filter()) and broker getBrokerGMTOffset() (line 271) 
+ -  change big candle filter: use only on initial trade not grid  (line 721) 
+ -  added maxTrades to input 
+ -  updated lines 555,591. made result SkipBuy or SkipSell. Do nothing if basket is + during Grid trading
+
 
 # Versions v11.0
 
